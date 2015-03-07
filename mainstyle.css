@@ -1,0 +1,56 @@
+body {
+	background-image: url("5.png");
+	background-size: cover;
+}
+h1,h2,h3,h4,h5,h6 {
+	display: inline;
+	font-style: normal;
+}
+h1 {
+	font-size: 45px;
+	margin: 0px;
+}
+#container {
+	width: 95%;
+	margin: auto;
+}
+#logo {
+	margin-left: 10%;
+}
+.title {
+	border-radius: 0.5em;
+	background-color: rgba(255,255,255,0.75);
+	padding-left: 2em;
+	margin-right: 30%;
+}
+.sectitle {
+	padding-left: 2em;
+	font-style: italic;
+}
+#content{
+	margin: 0px auto;
+}
+.posts{
+	margin-left: 10%;
+	margin-top: 2em;
+	background-color: rgba(255,255,255,0.7);
+	margin-right: 20%;
+	border-radius: 0.5em;
+}
+.posttitle {
+	text-align:left;
+	padding: 1em 3em;
+}
+#footer{
+	background-color: rgba(182,182,182,0.6);
+	margin: auto;
+	text-align: center;
+	border-radius: 0.5em;
+	width:25%;
+/*	line-height: 0.5em;*/
+}
+#footer p{
+	margin-top:0.3em;
+	margin-bottom:0.3em;
+}
+
