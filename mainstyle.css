@@ -1,14 +1,18 @@
 body {
-	background-image: url("https://ww1.sinaimg.cn/large/6ef56e82jw1eq24b3gnjyj21kw0w07t8.jpg");
+	background-image: url("bg.png");
 	background-size: cover;
 }
 h1,h2,h3,h4,h5,h6 {
 	display: inline;
 	font-style: normal;
+	text-shadow: 0px 0px 1px #606060;
 }
 h1 {
 	font-size: 45px;
 	margin: 0px;
+}
+.posttitle h2{
+	font-size: 30px;
 }
 #container {
 	width: 95%;
@@ -21,7 +25,7 @@ h1 {
 	border-radius: 0.5em;
 	background-color: rgba(255,255,255,0.75);
 	padding-left: 2em;
-	margin-right: 30%;
+	margin-right: 20%;
 }
 .sectitle {
 	padding-left: 2em;
@@ -39,7 +43,15 @@ h1 {
 }
 .posttitle {
 	text-align:left;
-	padding: 1em 3em;
+	padding: 0.5em 3em;
+}
+.postcontent-pre {
+	font-family: "Hiragino Sans GB","Microsoft YaHei","Microsoft JhengHei" !important;
+	padding: 0.5em 3em;
+}
+.postcontent-pre img{
+	width: 650px;
+	height: 270px;
 }
 #footer{
 	background-color: rgba(182,182,182,0.6);

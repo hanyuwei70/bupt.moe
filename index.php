@@ -25,6 +25,14 @@
 					标题说的还不够清楚么！
 				</div>
 			</div>
+			<div id="post-2" class="posts">
+				<div class="posttitle">
+					<h2>图片测试</h2>
+				</div>
+				<div class="postcontent-pre">
+					<img src="https://vcb-s.com/wp-content/uploads/2015/03/chihayafuru1.jpg" alt="测试图片"/>
+					23333333<br />盗图！
+				</div>
 		</div>
 	</div>
 	<div id="footer">
