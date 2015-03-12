@@ -1,5 +1,5 @@
 <?php
-	$WEBSITE_TITLE="北邮檐枫动漫社";
+	$WEBSITE_TITLE="bupt.moe测试主页";
 /* MYSQL 相关设置*/
 	$MYSQL_HOST="localhost";
 	$MYSQL_PORT=3306;
