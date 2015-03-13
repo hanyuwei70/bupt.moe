@@ -31,10 +31,22 @@
 				</div>
 				<div class="postcontent-pre">
 					<div class="postcontent-pre-img">
-					<img src="https://vcb-s.com/wp-content/uploads/2015/03/chihayafuru1.jpg" alt="测试图片"/>
+					<img src="test1.jpg" alt="测试图片"/>
 					</div>
 					<p>23333333<br />盗图！</p>
 				</div>
+			</div>
+			<div id="post-3" class="posts">
+				<div class="posttitle">
+					<h2>2015春季学期社员大会</h2>
+				</div>
+				<div class="postcontent-pre">
+					<div class="precontent-pre-img">
+						<img src="test2.jpg" />
+					</div>
+					<p>看我们纯洁无邪的笑容！</p>
+				</div>
+			</div>
 		</div>
 	</div>
 	<div id="footer">
