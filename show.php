@@ -11,7 +11,6 @@
 <div id="container">
 	<div id="header">
 	</div>
-	<>
 	<div id="footer">
 	<p>bupt.moe 由 hanyuwei70 设计</p>
 	<p>联系：请看whois</p>

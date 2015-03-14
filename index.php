@@ -7,6 +7,7 @@
 <meta charset="UTF-8" />
 <title><?php echo $WEBSITE_TITLE?></title>
 <link rel="stylesheet" type="text/css" href="mainstyle.css" />
+<link rel="stylesheet" type="text/css" href="sidebar.css" />
 <link rel="icon" type="image/vnd-microsoft.icon" href="favicon.ico" />
 </head>
 <div id="container">
@@ -23,6 +24,7 @@
 				</div>
 				<div class="postcontent-pre">
 					<p>此主页用来放一些檐枫动漫社相关的东西啦！</p>
+					<p>注：访问本站请使用各个浏览器最新版访问以享受最好的视觉效果。IE6@XP IE8@XP Android 2.3.7 因为SSL协议原因无法访问本站</p>
 				</div>
 			</div>
 			<div id="post-2" class="posts">
@@ -54,6 +56,10 @@
 	<p>联系：请看whois</p>
 	</div>
 </div>
+<section class="sidebar">
+<ul>
+</ul>
+</section>
 <body>
 </body>
 </html>
