@@ -58,6 +58,8 @@
 </div>
 <section class="sidebar">
 <ul>
+	<li>class1</li>
+	<li>class2</li>
 </ul>
 </section>
 <body>

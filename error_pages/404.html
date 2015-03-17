@@ -5,7 +5,7 @@
 <style>
 body {
 	text-align: center;
-	background-image: url("404.jpg");
+	background-image: url("error_pages/404.jpg");
 	background-position: center;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -21,10 +21,12 @@ h1 {
 	font-family: "Comic Sans MS";
 	font-size: 200px;
 	text-align: center;
-	
+	-moz-user-select: none;
+	transition: opacity 0.3s;
 }
 h1:hover{
-	letter-spacing: 0.25em;
+	opacity: 0;
+	transition: opacity 0.3s;
 }
 .contain{
 	background-color: rgba(255,255,255,0.75);
